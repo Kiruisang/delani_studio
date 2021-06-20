@@ -7,6 +7,9 @@
     background-repeat: no-repeat;
     
 }
+.headtext{
+    line-height: 1.5em;
+}
 .services {
     background-image: url(./assets/backgrounds/s_image.jpg);
     background-position: center;
@@ -14,10 +17,23 @@
     color: white;
     text-align: center;
 }
-.container {
-    width: 100%;
+#logosign {
+    margin-top: 12px;
+    margin-bottom: 24px;
+    width: 70px;
+    height: 70px;
 }
-body{
-    width: 100%;
-    margin-left: 0px;
+.mouse-click{
+    padding-top: 22px;
+    margin-top: 10%;
+    padding-bottom: 30px;
+}
+.about {
+    text-align: center;
+}
+.about p {
+    font-family: 'Copse';
+}
+.services h2 {
+    font-family: 'Gabriela';
 }
