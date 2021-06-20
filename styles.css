@@ -72,6 +72,15 @@
     padding-bottom: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
+#float-design, #float-development, #float-product {
+    display: none;
+    font-family: serif;
+    font-size: 16px;
+}
+#float-design .say, #float-development .say, #float-product .say {
+    font-size: 20px;
+    font-weight: 700px;
+}
 .say {
     padding: 6px;
 }
